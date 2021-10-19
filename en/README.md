@@ -1,4 +1,4 @@
-# mini-spring
+# little-spring
 
 ## ToDoList
 
